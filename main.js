@@ -7,7 +7,7 @@ let options =
     // Set the channel name.
     channel: 'test',
     // Pass your temp token here.
-    token: '007eJxTYDhp9r5m8sfnr05+n7Ph5T3D03pXDFZsn61Vuaa7rzn4bxGfAoOpkaGxmUGaQbKFUaJJampKkrlhapqZmYllonGasalRyltPl+Ss2a7JjrV/mRkZIBDEZ2EoSS0uYWAAAML8JTA=',
+    token: '007eJxTYMi+fv5y/KmLKVJ2iuunLJh1SDZmUb+rd8TNFTHrNv5t2npbgcHUyNDYzCDNINnCKNEkNTUlydwwNc3MzMQy0TjN2NQoJTfYJfnVEtfkzLN7GBihEMRnYShJLS5hYAAAJIkkYg==',
     // Set the user ID.
     uid: 0,
 };
